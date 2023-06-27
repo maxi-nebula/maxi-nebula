@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything related to front end devlopment
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on simple front end projects
-- 📫 How to reach me madhuravichandranofficial@gmail.com
+
 
 <!---
 maxi-nebula/maxi-nebula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
