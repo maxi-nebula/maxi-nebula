@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxi-nebula
-- 👀 I’m interested in anything related to front end devlopment
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on simple front end projects
+- 👀 I’m interested in anything related to full stack development
+- 🌱 I’m currently learning postgre sql
+- 💞️ I’m looking to collaborate on simple full stack projects
 
 
 <!---
